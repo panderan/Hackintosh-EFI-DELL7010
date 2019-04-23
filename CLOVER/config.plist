@@ -352,7 +352,26 @@
 		<key>KernelXCPM</key>
 		<false/>
 		<key>KextsToPatch</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Change VRAM 1536 -&gt; 2048 for 0x01620005</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AAAAYBAHAAAQBwAAAAAAAA==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferCapri</string>
+				<key>Replace</key>
+				<data>
+				AAAAgBAHAAAQBwAAAAAAAA==
+				</data>
+			</dict>
+		</array>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
