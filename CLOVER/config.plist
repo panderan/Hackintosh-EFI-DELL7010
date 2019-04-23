@@ -199,6 +199,8 @@
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
 		<string>dart=0</string>
+		<key>DefaultVolume</key>
+		<string>OS</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
