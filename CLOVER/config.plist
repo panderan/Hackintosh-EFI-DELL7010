@@ -287,16 +287,7 @@
 			<false/>
 		</dict>
 		<key>Scan</key>
-		<dict>
-			<key>Entries</key>
-			<true/>
-			<key>Legacy</key>
-			<false/>
-			<key>Linux</key>
-			<true/>
-			<key>Tool</key>
-			<true/>
-		</dict>
+		<true/>
 		<key>Theme</key>
 		<string>BGM</string>
 	</dict>
