@@ -198,7 +198,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>dart=0</string>
+		<string>dart=0 -gux_defer_usb2</string>
 		<key>DefaultVolume</key>
 		<string>OS</string>
 		<key>NeverHibernate</key>
@@ -289,7 +289,7 @@
 		<key>Scan</key>
 		<true/>
 		<key>Theme</key>
-		<string>BGM</string>
+		<string>embedded</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
